@@ -1,0 +1,100 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Grady",
+            "lastName": "Martin",
+            "email": "grady@martin.com"
+        },
+        {
+            "id": 2,
+            "firstName": "James",
+            "lastName": "Burton",
+            "email": "james@burton.com"
+        }
+    ],
+    "words": [
+        {
+            "id": 1,
+            "word": "queem",
+            "searchLetterId": 1,
+            "userID": 2,
+            "timestamp": 1623685373
+        },
+        {
+            "id": 2,
+            "word": "querimana",
+            "searchLetterId": 1,
+            "userID": 1,
+            "timestamp": 1623685374
+        },
+        {
+            "id": 3,
+            "word": "xenon",
+            "searchLetterId": 2,
+            "userID": 2,
+            "timestamp": 1623685397
+        },
+        {
+            "id": 4,
+            "word": "xebec",
+            "searchLetterId": 2,
+            "userID": 1,
+            "timestamp": 1623685372
+        },
+        {
+            "id": 5,
+            "word": "zygotene",
+            "searchLetterId": 3,
+            "userID": 2,
+            "timestamp": 1623685371
+        },
+        {
+            "id": 6,
+            "word": "zanja",
+            "searchLetterId": 3,
+            "userID": 1,
+            "timestamp": 1623685376
+        },
+        {
+            "id": 7,
+            "word": "qat",
+            "searchLetterId": 1,
+            "userID": 2,
+            "timestamp": 1623685375
+        },
+        {
+            "id": 8,
+            "word": "qiyas",
+            "searchLetterId": 1,
+            "userID": 1,
+            "timestamp": 1623685353
+        },
+        {
+            "id": 9,
+            "word": "queue",
+            "searchLetterId": 1,
+            "userID": 2,
+            "timestamp": 1623685351
+        }
+        // {"word":"que","score":3889},{"word":,"score":2900},{"word":"quate","score":2793},{"word":"quintessence","score":2738},{"word":"question","score":2608},{"word":"quality","score":2560},{"word":"quite","score":2538},{"word":"quo","score":2527},{"word":"query","score":2451},{"word":"quasi","score":2317},{"word":"quiet","score":2191},{"word":"quit","score":2086},{"word":"quote","score":2057},{"word":"quaint","score":1981},{"word":"quarter","score":1895},{"word":"queen","score":1821},{"word":"quest","score":1818},{"word":"quintessential","score":1787},{"word":"qit","score":1779},{"word":"quantum","score":1749},{"word":"quick","score":1676},{"word":"quotidian","score":1591},{"word":"quixotic","score":1579},{"word":"quandary","score":1564},{"word":"quirky","score":1555},{"word":"queer","score":1535},{"word":"quarry","score":1525},{"word":"quagmire","score":1421},{"word":"quorum","score":1394},{"word":"quarrel","score":1370},{"word":"quantity","score":1315},{"word":"quotient","score":1310},{"word":"quirk","score":1287},{"word":"quell","score":1280},{"word":"quay","score":1250},{"word":"quip","score":1244},{"word":"qoy","score":1241},{"word":"quiver","score":1217},{"word":"quiz","score":1216},{"word":"quib","score":1161},{"word":"quail","score":1154},{"word":"quire","score":1151},{"word":"quinoa","score":1123},{"word":"quash","score":1100},{"word":"qi","score":1098},{"word":"qualify","score":1082},{"word":"quotation","score":1073},{"word":"qad","score":1072},{"word":"quilt","score":1063},{"word":"quad","score":1059},{"word":"quench","score":1057},{"word":"qon","score":1043},{"word":"quid","score":1017},{"word":"quarantine","score":1011},{"word":"quiescent","score":1005},{"word":"qoa","score":1002},{"word":"qualm","score":985},{"word":"qaz","score":978},{"word":"quid pro quo","score":967},{"word":"quota","score":963},{"word":"q","score":961},{"word":"quibble","score":952},{"word":"querulous","score":945},{"word":"quadrant","score":921},{"word":"quill","score":914},{"word":"qen","score":912},{"word":"questionnaire","score":895},{"word":"qua","score":881},{"word":"qualification","score":877},{"word":"qoi","score":866},{"word":"qualified","score":857},{"word":"qim","score":831},{"word":"quark","score":831},{"word":"qie","score":823},{"word":"queasy","score":821},{"word":"quaff","score":810},{"word":"quartz","score":808},{"word":"quant","score":794},{"word":"quaker","score":763},{"word":"quietus","score":755},{"word":"qet","score":746},{"word":"quantify","score":738},{"word":"qualling","score":725},{"word":"quaver","score":723},{"word":"quantitative","score":720},{"word":"quick-freeze","score":718},{"word":"quince","score":713},{"word":"quarters","score":703},{"word":"qiz","score":700},{"word":"quex","score":695},{"word":"quondam","score":693},{"word":"quickly","score":680},{"word":"quack","score":655},{"word":"quisling","score":645},{"word":"qatar","score":644},{"word":"qualitative","score":641},{"word":"quake","score":638},{"word":"quoin","score":625},{"word":"quadruple","score":605},{"word":"quin","score":602}
+    ],
+    "searchLetters": [
+        {
+            "id": 1,
+            "letter": "q"
+        },
+        {
+            "id": 2,
+            "letter": "x"
+        },
+        {
+            "id": 3,
+            "letter": "z"
+        },
+        {
+            "id": 4,
+            "letter": "u"
+        }
+    ]
+}
